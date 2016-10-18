@@ -9,11 +9,10 @@ Lorem ipsum dolor sit amet.
 
 Jekyll ruby code example:
 
-~~~ ruby linenos
+~~~ ruby
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT
 ~~~
-
